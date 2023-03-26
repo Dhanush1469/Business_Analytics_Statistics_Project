@@ -12,11 +12,17 @@ Is the mean BMI of women with no children, one child, and two children the same?
 This Project is done to analyze above question statements for the business needs.
 
 Project covers below topics:
+
 1.Best practices for data exploration and analysis
+
 2.Data cleaning Techniques
+
 3.Statistical concepts
+
 4.Various Visualization methods for better interpretation of the data
+
 5.Solution based on business requirements
+
 6.Presentation for the business solution.
 
 
